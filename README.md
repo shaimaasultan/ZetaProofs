@@ -115,7 +115,7 @@
   <img src="Screenshot 2023-12-25 172354.png" />
   <img src="Screenshot 2023-12-25 180442.png" />
 
-   ## $\textcolor{red}{  (15) Using\ function\ of\ Euler\ function\ as\ degree\ in\ Trigonometric\ functions}$
+   ## $\textcolor{red}{  (15) Using\ Euler's\ Identity\ as\ degree\ in\ Trigonometric\ functions}$
    ---
 
    <img src="Screenshot 2024-01-04 094913.png" /> 
