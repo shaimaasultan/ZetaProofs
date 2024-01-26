@@ -1,4 +1,4 @@
-# 15 Different ways to Proof Riemann hypnosis  
+# 16 Different ways to Proof Riemann hypnosis  
 
 ## $\textcolor{red}{ (1) New\ Odd\ Numbers\ Identity\ and\ The\ None-trivial\ Zeros\ of\ Zeta\ Function}$
   ---
@@ -115,13 +115,18 @@
   <img src="Screenshot 2023-12-25 172354.png" />
   <img src="Screenshot 2023-12-25 180442.png" />
 
-   ## $\textcolor{red}{  (15) Using function of Euler function as degree in Trigonometric functions}$
+   ## $\textcolor{red}{  (15) Using\ function\ of\ Euler\ function\ as\ degree\ in\ Trigonometric\ functions}$
    ---
 
    <img src="Screenshot 2024-01-04 094913.png" /> 
 
-   
-  
+  ## $\textcolor{red}{  (16) Sercret\ of\ 2\ and\ Square\ root\ of\ 2\}$
+  ---
+
+  <img src="Screenshot 2023-09-24 221459.jpg" />
+  <img src="Screenshot 2023-06-30 232853.png" />
+  <img src="Screenshot 2023-09-24 221536.jpg" />
+
   
   
  
